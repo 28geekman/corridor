@@ -3,7 +3,9 @@ If you want to try this out yourself click here: https://tryhackme.com/room/corr
 ```
 Corr-IDOR
 ```
-This room was awesome for learning basics of "Insecure Direct Object References" aka "IDOR"
+
+This room was awesome for learning basics of "Insecure Direct Object References" aka "IDOR" created by JohnHammond {My virtual teacher on youtube}
+https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw
 
 So let's jump right in,
 
