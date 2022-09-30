@@ -90,5 +90,5 @@ this the md5 hash of number == 0 {Which really made me mad, I was trying from 1}
 
 let's go there and capture the flag
 ```
-flag{2477ef02[REDACTED]62e} 
+flag{REDACTED}  {Don't hope any flags from me}
 ```
